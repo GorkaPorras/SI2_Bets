@@ -503,7 +503,8 @@ public void open(boolean initializeMode){
 	 * @param Pasahitza user password
 	 * @return true <--> user does not exists in database
 	 */
-	public boolean Register(boolean langileaDa, String iz,String ab1,String ab2,String erabiz,String pass,String NAN, String jd,String email,String tlf, String helb, String pstkod,String hrld, String prob,String herria) {
+	public boolean Register(boolean langileaDa, String iz,String ab1,String ab2,String erabiz,String pass,String NAN, String jd,String email,
+			String tlf, String helb, String pstkod,String hrld, String prob,String herria) {
 		db.getTransaction().begin();
 		TypedQuery<User> query = db.createQuery("SELECT u FROM User u WHERE u.erabizena=?1 AND u.pasahitza=?2", User.class);
 		query.setParameter(1, erabiz);
