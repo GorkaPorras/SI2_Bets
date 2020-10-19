@@ -194,32 +194,11 @@ public class FacadeTest {
 
 		}
 
-	@Test
-	// langilea ==null
-	public void registerTest3() {
-
-		try {
-			boolean langilea = (Boolean) null;
-			sut.Register(langilea, "aa", "aa", "aa", "Gorka", "1234", "aa", "aa", "aa", "aa", "aa", "aa", "aa", "aa",
-					"aa");
-			fail();
-		} catch (Exception e) {
-			System.out.println(e);
-			assertTrue(true);
-		}finally {
-			try {
-				boolean b = testBL.removeUser(testBL.getUser("Gorka"));
-				System.out.println("Finally " + b);
-			} catch (Exception e2) {
-				System.out.println(e2);
-			}
-		}
-
-	}
+	
 
 	@Test
 	// izena = null
-	public void registerTest4() {
+	public void registerTest3() {
 		try {
 			sut.Register(false, null, "aa", "aa", "Grka", "123", "aa", "aa", "aa", "aa", "aa", "aa", "aa", "aa", "aa");
 			fail();
@@ -239,7 +218,7 @@ public class FacadeTest {
 
 	@Test
 	// ab1 = null
-	public void registerTest5() {
+	public void registerTest4() {
 		try {
 			sut.Register(false, "aa", null, "aa", "Gorka", "1234", "aa", "aa", "aa", "aa", "aa", "aa", "aa", "aa",
 					"aa");
@@ -259,7 +238,7 @@ public class FacadeTest {
 
 	@Test
 	// ab2 = null
-	public void registerTest6() {
+	public void registerTest5() {
 		try {
 			sut.Register(false, "aa", "aa", null, "Gorka", "1234", "aa", "aa", "aa", "aa", "aa", "aa", "aa", "aa",
 					"aa");
@@ -279,7 +258,7 @@ public class FacadeTest {
 
 	@Test
 	// erabiz = null
-	public void registerTest7() {
+	public void registerTest6() {
 		try {
 			sut.Register(false, "aa", "aa", "Gorka", null, "1234", "aa", "aa", "aa", "aa", "aa", "aa", "aa", "aa",
 					"aa");
@@ -300,7 +279,7 @@ public class FacadeTest {
 
 	@Test
 	// pass = null
-	public void registerTest8() {
+	public void registerTest7() {
 		try {
 			sut.Register(false, "aa", "aa", "Gorka", "1234", null, "aa", "aa", "aa", "aa", "aa", "aa", "aa", "aa",
 					"aa");
@@ -320,7 +299,7 @@ public class FacadeTest {
 
 	@Test
 	// NAN = null
-	public void registerTest9() {
+	public void registerTest8() {
 		try {
 			sut.Register(false, "aa", "aa", "Gorka", "1234", "aa", null, "aa", "aa", "aa", "aa", "aa", "aa", "aa",
 					"aa");
@@ -340,7 +319,7 @@ public class FacadeTest {
 
 	@Test
 	// jd = null
-	public void registerTest10() {
+	public void registerTest9() {
 		try {
 			sut.Register(false, "aa", "aa", "Gorka", "1234", "aa", null, "aa", "aa", "aa", "aa", "aa", "aa", "aa",
 					"aa");
@@ -360,7 +339,7 @@ public class FacadeTest {
 
 	@Test
 	// email = null
-	public void registerTest11() {
+	public void registerTest10() {
 		try {
 			sut.Register(false, "aa", "aa", "Gorka", "1234", "aa", null, "aa", "aa", "aa", "aa", "aa", "aa", "aa",
 					"aa");
@@ -380,7 +359,7 @@ public class FacadeTest {
 
 	@Test
 	// tlf = null
-	public void registerTest12() {
+	public void registerTest11() {
 		try {
 			sut.Register(false, "iz", "ab1", "ab2", "erabiz", "pass", "NAN", "jd", "email", null, "helb", "pstkod",
 					"hrld", "prob", "herria");
@@ -400,7 +379,7 @@ public class FacadeTest {
 
 	@Test
 	// helb = null
-	public void registerTest13() {
+	public void registerTest12() {
 		try {
 			sut.Register(false, "iz", "ab1", "ab2", "erabiz", "pass", "NAN", "jd", "email", "tlf", null, "pstkod",
 					"hrld", "prob", "herria");
@@ -420,7 +399,7 @@ public class FacadeTest {
 
 	@Test
 	// pstkod = null
-	public void registerTest14() {
+	public void registerTest13() {
 		try {
 			sut.Register(false, "iz", "ab1", "ab2", "erabiz", "pass", "NAN", "jd", "email", "tlf", "helb", null, "hrld",
 					"prob", "herria");
@@ -440,7 +419,7 @@ public class FacadeTest {
 
 	@Test
 	// hrld = null
-	public void registerTest15() {
+	public void registerTest14() {
 		try {
 			sut.Register(false, "iz", "ab1", "ab2", "erabiz", "pass", "NAN", "jd", "email", "tlf", "helb", "pstkod",
 					null, "prob", "herria");
@@ -460,7 +439,7 @@ public class FacadeTest {
 
 	@Test
 	// prob = null
-	public void registerTest16() {
+	public void registerTest15() {
 		try {
 			sut.Register(false, "iz", "ab1", "ab2", "erabiz", "pass", "NAN", "jd", "email", "tlf", "helb", "pstkod",
 					"hrld", null, "herria");
@@ -480,7 +459,7 @@ public class FacadeTest {
 
 	@Test
 	// herria = null
-	public void registerTest17() {
+	public void registerTest16() {
 		try {
 			sut.Register(false, "iz", "ab1", "ab2", "erabiz", "pass", "NAN", "jd", "email", "tlf", "helb", "pstkod",
 					"hrld", "prob", null);
