@@ -1,0 +1,59 @@
+
+5domain.SuperBetContainer#toString()Ljava/lang/String;W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java ("1*„
+1W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java 	  (¥
+¢
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java 	  (
+%0domain.SuperBet"__id***(
+domain.SuperBetContainer"
+
+superBetž
+›
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java 	  (
+%1java.lang.String"__concat*
+
+%0domain.SuperBet*
+/¯
+¬
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java   (#
+%2domain.Erabiltzailea"__id*/*-
+domain.SuperBetContainer"
+erabiltzailea¶
+³
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java 	  (#
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2domain.ErabiltzaileaŸ
+œ
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java 	  ('
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+/¥
+¢
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java (  (/
+%5java.util.Vector"__id*)*'
+domain.SuperBetContainer"	
+results²
+¯
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java 	  (/
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.util.Vector"s
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/SuperBetContainer.java   (0
+
+%6java.lang.StringB
+domain.SuperBetContainer

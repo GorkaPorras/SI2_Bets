@@ -1,0 +1,59 @@
+
+CbusinessLogic.BLFacadeImplementation#deleteResult(Ldomain/Result;)Ze
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java« «("startingBlock*∂
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java« «(&°
+û
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java∆ ∆(
+%5"
+__annotate*
+	WebMethod*
+
+rdomain.Resultî
+ë
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java«$ «(%
+rdomain.Result"__annotation*
+
+%5*
+5*æ
+4e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÃ Ã(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÃ Ã(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÉÄ
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÃ Ã(
+%3boolean"4dataAccess.DataAccess#deleteResult(Ldomain/Result;)Z*
+
+%2dataAccess.DataAccess*
+
+rdomain.Result2deleteResult(Ldomain/Result;)*
+1*Å
+5e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÀ À(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÀ À(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager∆√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÀ À(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)*
+4*€
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java—	 —("o
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java— —(
+"":
+rdomain.ResultB(&
+$businessLogic.BLFacadeImplementation

@@ -1,0 +1,16 @@
+
+.domain.Result#getSuperBets()Ljava/util/Vector;L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaR R(%"1*Ï
+1L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaS	 S(‘
+Ž
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaS	 S(
+%0java.util.Vector"__id* *
+domain.Result"
+	superBets"h
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaS S(
+
+%0java.util.VectorB
+domain.Result

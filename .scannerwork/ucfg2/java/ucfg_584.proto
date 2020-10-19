@@ -1,0 +1,22 @@
+
+8domain.Result#getQuestionFinalResult()Ljava/lang/String;L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.java^ ^(%"1*ú
+1L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.java_	 _(è
+å
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.java_	 _(
+%0domain.Question"__id**
+domain.Result"
+
+questionÃ…
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.java_	 _($
+%1java.lang.String"4domain.Question#getEmaitzaFinala()Ljava/lang/String;*
+
+%0domain.Question2getEmaitzaFinala()"h
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.java_ _(%
+
+%1java.lang.StringB
+domain.Result

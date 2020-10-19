@@ -1,0 +1,50 @@
+
+&domain.Result#removeBet(Ldomain/Bet;)ZL
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javar r("3*’
+2L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javat t(Œ
+‰
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javat t(
+%2java.util.Vector"__id**
+domain.Result"
+bets×Ô
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javat t(
+%3boolean",java.util.Vector#remove(Ljava/lang/Object;)Z*
+
+%2java.util.Vector*
+
+b
+domain.Bet2remove(Ljava/lang/Object;)"V
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javau u(
+""*Æ
+3L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javas s(
+Œ
+‰
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javas s(
+
+%0java.util.Vector"__id**
+domain.Result"
+betsÛØ
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javas s(
+%1boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Vector*
+
+b
+domain.Bet2contains(Ljava/lang/Object;)*
+2
+1*©
+1L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaw	 w("V
+L
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaw w(
+"":
+b
+domain.BetB
+domain.Result

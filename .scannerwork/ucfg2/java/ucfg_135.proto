@@ -1,0 +1,140 @@
+
+8gui.UnRegisteredGUI#getLblNewLabel()Ljavax/swing/JLabel;T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaÝ Ý("3*Ü
+2T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaß# ß(1ø
+õ
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaß# ß(H
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	EtiquetasŽ‹
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaß# ß(b
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+SelectOption2getString(Ljava/lang/String;)‡„
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaß ß("
+%3javax.swing.JLabel"javax.swing.JLabelÅ
+Â
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaß ß(c
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.Stringª
+§
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaß ß(c-
+gui.UnRegisteredGUI"
+jLabelSelectOption"__id*
+
+%3javax.swing.JLabelª
+§
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaà à(
+%5javax.swing.JLabel"__id*/*-
+gui.UnRegisteredGUI"
+jLabelSelectOptionÑÎ
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaà à(1
+
+%6void"#java.awt.Component#setBounds(IIII)V*
+
+%5javax.swing.JLabel*2¢*2=*2Ý*2<2setBounds(IIII)ª
+§
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaá á(
+%7javax.swing.JLabel"__id*/*-
+gui.UnRegisteredGUI"
+jLabelSelectOptionq
+o
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaá1 á(:	
+%8int"__id*
+""|z
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaá" á(&
+%9java.awt.Font"java.awt.FontÃ
+À
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaá á(?
+%10"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%9java.awt.Font*
+
+Tahoma*
+	
+%8int*2åâ
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaá á(@
+%11void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%7javax.swing.JLabel*
+
+%9java.awt.Font2setFont(Ljava/awt/Font;)«
+¨
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaâ â(
+%12javax.swing.JLabel"__id*/*-
+gui.UnRegisteredGUI"
+jLabelSelectOption}
+{
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaâ$ â(/
+%13java.awt.Color"__id*
+""öó
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaâ â(0
+%14void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%12javax.swing.JLabel*
+
+%13java.awt.Color2setForeground(Ljava/awt/Color;)«
+¨
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaã ã(
+%15javax.swing.JLabel"__id*/*-
+gui.UnRegisteredGUI"
+jLabelSelectOptionr
+p
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaã- ã(B
+
+%16int"__id*
+""ÛØ
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaã ã(C
+%17void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%15javax.swing.JLabel*
+
+
+%16int2setHorizontalAlignment(I)*
+1*Ž
+3T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaÞ Þ(ª
+§
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaÞ Þ(
+%0javax.swing.JLabel"__id*/*-
+gui.UnRegisteredGUI"
+jLabelSelectOption*
+2
+1*ü
+1T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaå	 å(«
+¨
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaå	 å(
+%18javax.swing.JLabel"__id*/*-
+gui.UnRegisteredGUI"
+jLabelSelectOption"s
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/UnRegisteredGUI.javaå å(
+
+%18javax.swing.JLabelB
+gui.UnRegisteredGUI

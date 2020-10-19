@@ -1,0 +1,59 @@
+
+GbusinessLogic.BLFacadeImplementation#deleteQuestion(Ldomain/Question;)Ze
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaπ π("startingBlock*∫
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaπ π(*£
+†
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java∏ ∏(
+%5"
+__annotate*
+	WebMethod*
+
+qdomain.Questionñ
+ì
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaπ( π()
+qdomain.Question"__annotation*
+
+%5*
+5*»
+4e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaæ æ(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaæ æ(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerçä
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaæ æ(
+%3boolean"8dataAccess.DataAccess#deleteQuestion(Ldomain/Question;)Z*
+
+%2dataAccess.DataAccess*
+
+qdomain.Question2!deleteQuestion(Ldomain/Question;)*
+1*Å
+5e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaΩ Ω(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaΩ Ω(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager∆√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaΩ Ω(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)*
+4*€
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java√	 √("o
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java√ √(
+"":
+qdomain.QuestionB(&
+$businessLogic.BLFacadeImplementation

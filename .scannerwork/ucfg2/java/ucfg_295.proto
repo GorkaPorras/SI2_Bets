@@ -1,0 +1,38 @@
+
+5domain.QuestionContainer#toString()Ljava/lang/String;W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/QuestionContainer.java ("1*í
+1W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/QuestionContainer.java	 (¥
+¢
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/QuestionContainer.java	 (
+%0domain.Question"__id***(
+domain.QuestionContainer"
+
+questionž
+›
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/QuestionContainer.java	 (
+%1java.lang.String"__concat*
+
+%0domain.Question*
+/Ÿ
+œ
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/QuestionContainer.java (
+%2domain.Event"__id*'*%
+domain.QuestionContainer"
+event®
+«
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/QuestionContainer.java	 (
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2domain.Event"s
+W
+MC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/QuestionContainer.java (
+
+%3java.lang.StringB
+domain.QuestionContainer

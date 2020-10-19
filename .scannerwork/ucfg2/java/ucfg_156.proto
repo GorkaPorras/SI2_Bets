@@ -1,0 +1,57 @@
+
+ftest.businessLogic.TestFacadeImplementation#addEvent(Ljava/lang/String;Ljava/util/Date;)Ldomain/Event;j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java   ("1*“
+1j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java! !(ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java! !($
+%0test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest”–
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java! !(
+
+%1void"&test.dataAccess.TestDataAccess#open()V*&
+$
+%0test.dataAccess.TestDataAccess2open()ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java" "($
+%2test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTestÁ‰
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java" "()
+%3domain.Event"Ytest.dataAccess.TestDataAccess#addEvent(Ljava/lang/String;Ljava/util/Date;)Ldomain/Event;*&
+$
+%2test.dataAccess.TestDataAccess*
+
+descjava.lang.String*
+
+djava.util.Date2,addEvent(Ljava/lang/String;Ljava/util/Date;)û
+õ
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java" "(*
+odomain.Event"__id*
+
+%3domain.Eventﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java# #($
+%4test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest’“
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java# #(
+
+%5void"'test.dataAccess.TestDataAccess#close()V*&
+$
+%4test.dataAccess.TestDataAccess2close()"Å
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java$ $(
+
+odomain.Event:
+descjava.lang.String:
+djava.util.DateB/-
++test.businessLogic.TestFacadeImplementation

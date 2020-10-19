@@ -1,0 +1,42 @@
+
+HdataAccess.DataAccess#getBetContainer(Ldomain/Bet;)Ldomain/BetContainer;V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java± ±($"1*â
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java² ²(§¤
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java² ²(0	
+%0int"domain.Bet#getBetNumber()I*
+
+bet
+domain.Bet2getBetNumber()z
+x
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java² ²(2
+be
+domain.Bet"__id*
+""‹ˆ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java³ ³($
+%1domain.BetContainer"domain.BetContainer½
+º
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java³ ³((
+%2")domain.BetContainer#<init>(Ldomain/Bet;)V*
+
+%1domain.BetContainer*
+
+be
+domain.Bet™
+–
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java³ ³()
+BCdomain.BetContainer"__id*
+
+%1domain.BetContainer"u
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java´ ´(
+
+BCdomain.BetContainer:
+bet
+domain.BetB
+dataAccess.DataAccess

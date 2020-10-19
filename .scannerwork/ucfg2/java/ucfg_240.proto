@@ -1,0 +1,95 @@
+
+8dataAccess.DataAccess#deleteQuestion(Ldomain/Question;)ZV
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaö ö("17*Œ
+14V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaû û(¤¡
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaû û(	
+%2int"java.util.Vector#size()I*
+
+resqjava.util.Vector2size()*
+8
+12*ú
+15V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaú ú()•
+’
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaú ú()
+resqjava.util.Vector"__id*
+
+%1java.util.Vector*
+14*¯
+16V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaú ú(ÊÇ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaú ú((
+%1java.util.Vector".domain.Question#getResults()Ljava/util/Vector;*
+
+qudomain.Question2getResults()*
+15*¿
+17V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java÷ ÷(ÙÖ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaø' ø(<
+%0java.lang.Integer"6domain.Question#getQuestionNumber()Ljava/lang/Integer;*
+
+qdomain.Question2getQuestionNumber()
+}
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaø ø(>
+qudomain.Question"__id*
+""*
+16*Ð
+6V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÿ6 ÿ(8íê
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÿ ÿ(9
+%7boolean"/domain.Event#removeQuestion(Ldomain/Question;)Z*
+
+%6domain.Event*
+
+qudomain.Question2!removeQuestion(Ldomain/Question;)*
+1*³
+7V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÿ ÿ(&ÐÍ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÿ ÿ(&
+%6domain.Event"1domain.QuestionContainer#getEvent()Ldomain/Event;* 
+
+%5domain.QuestionContainer2
+getEvent()*
+6*”
+8V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÿ ÿ(±®
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÿ ÿ(
+%5domain.QuestionContainer"WdataAccess.DataAccess#getQuestionContainer(Ldomain/Question;)Ldomain/QuestionContainer;*
+dataAccess.DataAccess*
+
+qudomain.Question2'getQuestionContainer(Ldomain/Question;)*
+7*Ö
+11V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(ñî
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(
+%4boolean"4dataAccess.DataAccess#deleteResult(Ldomain/Result;)Z*
+dataAccess.DataAccess*
+
+%3domain.Result2deleteResult(Ldomain/Result;)*
+14*¬
+12V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(ÇÄ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(
+%3domain.Result")java.util.Vector#get(I)Ljava/lang/Object;*
+
+resqjava.util.Vector*
+""2get(I)*
+11*½
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java†	 †("`
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java† †(
+"":
+qdomain.QuestionB
+dataAccess.DataAccess

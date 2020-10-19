@@ -1,0 +1,60 @@
+
+MbusinessLogic.BLFacadeImplementation#deleteErabiltzailea(Ljava/lang/String;)Ze
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaº º(#"startingBlock*Ã
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaº# º(5¨
+©
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaª ª(
+%5"
+__annotate*
+	WebMethod*
+
+	erabizenajava.lang.Stringü
+ú
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaº+ º(4
+	erabizenajava.lang.String"__annotation*
+
+%5*
+5*›
+4e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¡ ¡(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¡ ¡(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager¢ü
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¡ ¡(+
+%3boolean">dataAccess.DataAccess#deleteErabiltzailea(Ljava/lang/String;)Z*
+
+%2dataAccess.DataAccess*
+
+	erabizenajava.lang.String2'deleteErabiltzailea(Ljava/lang/String;)*
+1*Å
+5e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¿ ¿(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¿ ¿(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager∆√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¿ ¿(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)*
+4*€
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java∆	 ∆(
+"o
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java∆ ∆(
+"":
+	erabizenajava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

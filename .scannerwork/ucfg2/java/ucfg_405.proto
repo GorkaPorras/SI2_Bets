@@ -1,0 +1,45 @@
+
+3businessLogic.BLFacadeImplementation#getIrabazia()Fe
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaù ù("1*é
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaü ü(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaü ü(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager∆√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaü ü(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java† †(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÀ»
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java† †(+
+%3float"$dataAccess.DataAccess#getIrabazia()F*
+
+%2dataAccess.DataAccess2getIrabazia()∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java° °(
+%4dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManageræª
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java° °(
+
+%5void"dataAccess.DataAccess#close()V*
+
+%4dataAccess.DataAccess2close()"o
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¢ ¢(
+""B(&
+$businessLogic.BLFacadeImplementation

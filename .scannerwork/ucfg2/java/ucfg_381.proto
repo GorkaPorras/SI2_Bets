@@ -1,0 +1,82 @@
+
+VbusinessLogic.BLFacadeImplementation#isRegister(Ljava/lang/String;Ljava/lang/String;)Zc
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javas s("startingBlock*ã
+startingBlockc
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javas s(:¶
+£
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javar r(
+%6"
+__annotate*
+	WebMethod*
+
+Izenajava.lang.Stringô
+ñ
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javas" s('
+Izenajava.lang.String"__annotation*
+
+%6™
+ß
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javar r(
+%7"
+__annotate*
+	WebMethod*
+
+	Pasahitzajava.lang.Stringù
+ö
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javas0 s(9
+	Pasahitzajava.lang.String"__annotation*
+
+%7*
+1*Ñ
+1c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javau u(ƒ
+¡
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javau u(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerƒ¡
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javau u(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)ƒ
+¡
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javav v(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerœÃ
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javav v(4
+%3boolean"GdataAccess.DataAccess#isRegister(Ljava/lang/String;Ljava/lang/String;)Z*
+
+%2dataAccess.DataAccess*
+
+Izenajava.lang.String*
+
+	Pasahitzajava.lang.String20isRegister(Ljava/lang/String;Ljava/lang/String;)ƒ
+¡
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaw w(
+%4dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerºπ
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaw w(
+
+%5void"dataAccess.DataAccess#close()V*
+
+%4dataAccess.DataAccess2close()"m
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javax x(
+"":
+Izenajava.lang.String:
+	Pasahitzajava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

@@ -1,0 +1,54 @@
+
+Ttest.businessLogic.TestFacadeImplementation#getUser(Ljava/lang/String;)Ldomain/User;j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java4 4("1*ó
+1j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java5 5(ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java5 5($
+%0test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest”–
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java5 5(
+
+%1void"&test.dataAccess.TestDataAccess#open()V*&
+$
+%0test.dataAccess.TestDataAccess2open()ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java6 6($
+%2test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest≠™
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java6 6('
+%3domain.User"Gtest.dataAccess.TestDataAccess#getUser(Ljava/lang/String;)Ldomain/User;*&
+$
+%2test.dataAccess.TestDataAccess*
+
+izenajava.lang.String2getUser(Ljava/lang/String;)ù
+ö
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java6 6((
+usdomain.User"__id*
+
+%3domain.Userﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java7 7($
+%4test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest’“
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java7 7(
+
+%5void"'test.dataAccess.TestDataAccess#close()V*&
+$
+%4test.dataAccess.TestDataAccess2close()"Å
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java8 8(
+
+usdomain.User:
+izenajava.lang.StringB/-
++test.businessLogic.TestFacadeImplementation

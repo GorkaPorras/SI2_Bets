@@ -1,0 +1,54 @@
+
+Ptest.businessLogic.TestFacadeImplementation#register(Ldomain/User;)Ldomain/User;j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java' '("1*Ü
+1j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java( ((ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java( (($
+%0test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest”–
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java( ((
+
+%1void"&test.dataAccess.TestDataAccess#open()V*&
+$
+%0test.dataAccess.TestDataAccess2open()ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java) )($
+%2test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTestúô
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java) )(&
+%3domain.User"Ctest.dataAccess.TestDataAccess#register(Ldomain/User;)Ldomain/User;*&
+$
+%2test.dataAccess.TestDataAccess*
+
+udomain.User2register(Ldomain/User;)ù
+ö
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java) )('
+usdomain.User"__id*
+
+%3domain.Userﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java* *($
+%4test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest’“
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java* *(
+
+%5void"'test.dataAccess.TestDataAccess#close()V*&
+$
+%4test.dataAccess.TestDataAccess2close()"Å
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java+ +(
+
+usdomain.User:
+udomain.UserB/-
++test.businessLogic.TestFacadeImplementation

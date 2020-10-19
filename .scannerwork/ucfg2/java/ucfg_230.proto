@@ -1,0 +1,28 @@
+
+JdataAccess.DataAccess#getMugimenduak(Ljava/lang/String;)Ljava/util/Vector;V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü()"1*è
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaý ý(%§¤
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaý ý(,
+%0domain.Erabiltzailea"PdataAccess.DataAccess#getErabiltzailea(Ljava/lang/String;)Ldomain/Erabiltzailea;*
+dataAccess.DataAccess*
+
+izenajava.lang.String2$getErabiltzailea(Ljava/lang/String;)›
+˜
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaý ý(-
+erdomain.Erabiltzailea"__id*
+
+%0domain.ErabiltzaileaÎË
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaþ	 þ(
+%1java.util.Vector"0domain.Erabiltzailea#getMugi()Ljava/util/Vector;*
+
+erdomain.Erabiltzailea2	getMugi()"r
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaþ þ(
+
+%1java.util.Vector:
+izenajava.lang.StringB
+dataAccess.DataAccess

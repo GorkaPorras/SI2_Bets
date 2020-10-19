@@ -1,0 +1,135 @@
+
+>dataAccess.DataAccess#deleteErabiltzailea(Ljava/lang/String;)ZV
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaô ô(#"18*∫
+13V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü- ü(.’“
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(/
+%3boolean"&domain.Result#removeBet(Ldomain/Bet;)Z*
+
+%2domain.Result*
+
+b
+domain.Bet2removeBet(Ldomain/Bet;)*
+12*Ø
+14V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(" «
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü("
+%2domain.Result".domain.BetContainer#getResult()Ldomain/Result;*
+
+%1domain.BetContainer2getResult()*
+13*Ú
+15V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(çä
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaü ü(
+%1domain.BetContainer"HdataAccess.DataAccess#getBetContainer(Ldomain/Bet;)Ldomain/BetContainer;*
+dataAccess.DataAccess*
+
+b
+domain.Bet2getBetContainer(Ldomain/Bet;)*
+14*¥
+16V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaû û(œÃ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaû û(
+%0java.util.Vector"1domain.Erabiltzailea#getEbets()Ljava/util/Vector;*
+
+edomain.Erabiltzailea2
+getEbets()*
+12*È
+18V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaú ú(=Ñ
+Å
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaú ú(=
+edomain.Erabiltzailea"__id*
+""*
+16*à
+7V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java† †(
+}
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java† †(
+sbdomain.SuperBet"__id*
+""†
+ù
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java† †(
+sbdomain.SuperBet"
+__arrayGet*
+
+%4java.util.Vector*
+""*
+10
+1*Å
+8V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java°	 °(|
+z
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java°	 °(
+rdomain.Result"__id*
+""ù
+ö
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java°	 °(
+rdomain.Result"
+__arrayGet*
+
+%5java.util.Vector*
+""*
+7
+9*—
+9V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¢ ¢(ÓÎ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¢ ¢(
+%6boolean"0domain.Result#removeSuperBet(Ldomain/SuperBet;)Z*
+
+rdomain.Result*
+
+sbdomain.SuperBet2!removeSuperBet(Ldomain/SuperBet;)*
+8*Æ
+10V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java° °( «
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java° °(#
+%5java.util.Vector".domain.SuperBet#getResults()Ljava/util/Vector;*
+
+sbdomain.SuperBet2getResults()*
+8*ª
+11V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java† †(◊‘
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java† †(&
+%4java.util.Vector"5domain.Erabiltzailea#getSuperBets()Ljava/util/Vector;*
+
+edomain.Erabiltzailea2getSuperBets()*
+7*˛
+12V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaû û(y
+w
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaû û(
+b
+domain.Bet"__id*
+""ö
+ó
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaû û(
+b
+domain.Bet"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+15
+11*Ω
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java™	 ™("`
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java™ ™(
+"":
+	erabizenajava.lang.StringB
+dataAccess.DataAccess

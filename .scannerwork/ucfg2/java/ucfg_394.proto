@@ -1,0 +1,60 @@
+
+ObusinessLogic.BLFacadeImplementation#getAdmin(Ljava/lang/String;)Ldomain/Admin;e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javað ð("startingBlock*Â
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javað ð(#§
+¤
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaï ï(
+%4"
+__annotate*
+	WebMethod*
+
+erabjava.lang.Stringš
+—
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javað ð("
+erabjava.lang.String"__annotation*
+
+%4*
+1*ý	
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaò ò(Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaò ò(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÆÃ
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaò ò(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaó ó(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager™–
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaó ó(%
+%3domain.Admin"@dataAccess.DataAccess#getAdmin(Ljava/lang/String;)Ldomain/Admin;*
+
+%2dataAccess.DataAccess*
+
+erabjava.lang.String2getAdmin(Ljava/lang/String;)š
+—
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaó ó(&
+addomain.Admin"__id*
+
+%3domain.Admin"}
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaô ô(
+
+addomain.Admin:
+erabjava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

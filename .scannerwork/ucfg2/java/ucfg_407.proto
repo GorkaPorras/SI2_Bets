@@ -1,0 +1,64 @@
+
+JbusinessLogic.BLFacadeImplementation#getErabiltzaileak()Ljava/util/Vector;e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java² ²(/"1*„
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java³ ³(“
+
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java³ ³(
+%0java.io.PrintStream"__id*
+""ÿü
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java³ ³(/
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+>> DataAccess: getUsers2println(Ljava/lang/String;)Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaµ µ(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÆÃ
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaµ µ(
+
+%3void"dataAccess.DataAccess#open(Z)V*
+
+%2dataAccess.DataAccess*
+""2open(Z)Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¶ ¶(%
+%4dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManageróð
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¶ ¶(9
+%5java.util.Vector";dataAccess.DataAccess#getErabiltzaileak()Ljava/util/Vector;*
+
+%4dataAccess.DataAccess2getErabiltzaileak()¡
+ž
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¶ ¶(:
+ujava.util.Vector"__id*
+
+%5java.util.VectorÆ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java· ·(
+%6dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager¾»
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java· ·(
+
+%7void"dataAccess.DataAccess#close()V*
+
+%6dataAccess.DataAccess2close()"€
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java¸ ¸(
+
+ujava.util.VectorB(&
+$businessLogic.BLFacadeImplementation

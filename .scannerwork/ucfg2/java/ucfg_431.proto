@@ -1,0 +1,38 @@
+
+7domain.MugimenduaContainer#toString()Ljava/lang/String;Y
+OC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/MugimenduaContainer.java ("1*›
+1Y
+OC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/MugimenduaContainer.java	 (­
+ª
+Y
+OC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/MugimenduaContainer.java	 (
+%0domain.Mugimendua"__id*.*,
+domain.MugimenduaContainer"
+
+mugimendua¢
+Ÿ
+Y
+OC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/MugimenduaContainer.java	 (
+%1java.lang.String"__concat*
+
+%0domain.Mugimendua*
+/³
+°
+Y
+OC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/MugimenduaContainer.java (%
+%2domain.Erabiltzailea"__id*1*/
+domain.MugimenduaContainer"
+erabiltzailea¸
+µ
+Y
+OC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/MugimenduaContainer.java	 (%
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2domain.Erabiltzailea"u
+Y
+OC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/MugimenduaContainer.java (&
+
+%3java.lang.StringB
+domain.MugimenduaContainer

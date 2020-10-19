@@ -1,0 +1,72 @@
+
+fbusinessLogic.BLFacadeImplementation#getQuestionContainer(Ldomain/Question;)Ldomain/QuestionContainer;c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java~ ~(."startingBlock*¬
+startingBlockc
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java~. ~(A®
+•
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java} }(
+%6"
+__annotate*
+	WebMethod*
+
+questiondomain.Questionõ
+ò
+c
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java~8 ~(@
+questiondomain.Question"__annotation*
+
+%6*
+1*˚
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÄ Ä(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÄ Ä(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager∆√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÄ Ä(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÅ( Å(1
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager «
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÅ( Å(P
+%3domain.QuestionContainer"WdataAccess.DataAccess#getQuestionContainer(Ldomain/Question;)Ldomain/QuestionContainer;*
+
+%2dataAccess.DataAccess*
+
+questiondomain.Question2'getQuestionContainer(Ldomain/Question;)¡
+æ
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÅ Å(Q-
+QuestionContainerdomain.QuestionContainer"__id* 
+
+%3domain.QuestionContainer∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÇ Ç(
+%4dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManageræª
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÇ Ç(
+
+%5void"dataAccess.DataAccess#close()V*
+
+%4dataAccess.DataAccess2close()"ò
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÉ É(/
+-
+QuestionContainerdomain.QuestionContainer:
+questiondomain.QuestionB(&
+$businessLogic.BLFacadeImplementation

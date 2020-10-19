@@ -1,0 +1,42 @@
+
+9test.dataAccess.TestDataAccess#removeUser(Ldomain/User;)Z]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.java_ _("3*Ë
+2]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.javad d("g
+]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.javag g(
+""*Í
+3]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.java` `(	‹
+ˆ
+]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.java` `(
+%0java.io.PrintStream"__id*
+""ýú
+]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.java` `(6
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*!
+>> DataAccessTest: removeUser2println(Ljava/lang/String;)ÌÉ
+]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.javaa! a(1
+%2java.lang.String",domain.User#getErabizena()Ljava/lang/String;*
+
+udomain.User2getErabizena()ƒ
+€
+]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.javaa a(3
+usdomain.User"__id*
+""*
+2
+1*Ë
+1]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.javai
+ i("g
+]
+SC:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/dataAccess/TestDataAccess.javai i(
+"":
+udomain.UserB" 
+test.dataAccess.TestDataAccess

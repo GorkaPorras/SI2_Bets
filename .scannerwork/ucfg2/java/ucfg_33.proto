@@ -1,0 +1,45 @@
+
+/domain.Event#removeQuestion(Ldomain/Question;)ZK
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaW W("3*ò
+2K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaY Y(è
+å
+K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaY Y(
+%2java.util.Vector"__id**
+domain.Event"
+	questions‹Ÿ
+K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaY Y(
+%3boolean",java.util.Vector#remove(Ljava/lang/Object;)Z*
+
+%2java.util.Vector*
+
+qudomain.Question2remove(Ljava/lang/Object;)"U
+K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaZ Z(
+""*Õ
+3K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaX X(è
+å
+K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaX X(
+%0java.util.Vector"__id**
+domain.Event"
+	questions‡›
+K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.javaX X(
+%1boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Vector*
+
+qudomain.Question2contains(Ljava/lang/Object;)*
+2
+1*ß
+1K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.java\	 \("U
+K
+AC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Event.java\ \(
+"":
+qudomain.QuestionB
+domain.Event

@@ -1,0 +1,124 @@
+
+=gui.LangileaGUI#getBtnGertaeraBikoiztu()Ljavax/swing/JButton;P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.javaŒ Œ('"3*Ú
+2P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java–% –(3Ù
+Ò
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java–% –(J
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetaséã
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java–% –(h
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+GertaeraBikoiztu2getString(Ljava/lang/String;)ÖÇ
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java– –($
+%3javax.swing.JButton"javax.swing.JButton√
+¿
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java– –(i
+%4"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JButton*
+
+%2java.lang.String§
+°
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java– –(i*
+gui.LangileaGUI"
+btnGertaeraBikoiztu"__id*
+
+%3javax.swing.JButton§
+°
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java— —(
+%5javax.swing.JButton"__id*,**
+gui.LangileaGUI"
+btnGertaeraBikoiztum
+k
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java—2 —(<	
+%6int"__id*
+""xv
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java—# —('
+%7java.awt.Font"java.awt.Fontæ
+ª
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java— —(A
+%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%7java.awt.Font*
+
+Tahoma*
+	
+%6int*2·ﬁ
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java— —(B
+
+%9void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%5javax.swing.JButton*
+
+%7java.awt.Font2setFont(Ljava/awt/Font;)•
+¢
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java“ “(
+%10javax.swing.JButton"__id*,**
+gui.LangileaGUI"
+btnGertaeraBikoiztuÑÅ
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java“- “(;
+%11gui.LangileaGUI$13"gui.LangileaGUI$13ï
+í
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java“) ◊(
+%12"java.lang.Object#<init>()V*
+
+%11gui.LangileaGUI$13°û
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java“ ◊(
+%13void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%10javax.swing.JButton*
+
+%11gui.LangileaGUI$1322addActionListener(Ljava/awt/event/ActionListener;)•
+¢
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.javaÿ ÿ(
+%14javax.swing.JButton"__id*,**
+gui.LangileaGUI"
+btnGertaeraBikoiztu–Õ
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.javaÿ ÿ(2
+%15void"#java.awt.Component#setBounds(IIII)V*
+
+%14javax.swing.JButton*2*2˜*2Ú*2<2setBounds(IIII)*
+1*Ñ
+3P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.javaœ œ(§
+°
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.javaœ œ(
+%0javax.swing.JButton"__id*,**
+gui.LangileaGUI"
+btnGertaeraBikoiztu*
+2
+1*Ô
+1P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java⁄	 ⁄(•
+¢
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java⁄	 ⁄(
+%16javax.swing.JButton"__id*,**
+gui.LangileaGUI"
+btnGertaeraBikoiztu"p
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/LangileaGUI.java⁄ ⁄(
+
+%16javax.swing.JButtonB
+gui.LangileaGUI

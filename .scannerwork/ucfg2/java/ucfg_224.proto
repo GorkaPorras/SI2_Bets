@@ -1,0 +1,38 @@
+
+WdataAccess.DataAccess#getSuperBetContainer(Ldomain/SuperBet;)Ldomain/SuperBetContainer;V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java· ·(."1*­
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¸ ¸(»¸
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¸) ¸(@	
+%0int"$domain.SuperBet#getSuperBetNumber()I*
+
+betdomain.SuperBet2getSuperBetNumber()€
+~
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¸ ¸(B
+sbedomain.SuperBet"__id*
+""•’
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¹ ¹(/
+%1domain.SuperBetContainer"domain.SuperBetContainerÒ
+Ï
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¹ ¹(4
+%2"3domain.SuperBetContainer#<init>(Ldomain/SuperBet;)V* 
+
+%1domain.SuperBetContainer*
+
+sbedomain.SuperBet¤
+¡
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¹ ¹(5
+SBCdomain.SuperBetContainer"__id* 
+
+%1domain.SuperBetContainer"{
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaº º(!
+
+SBCdomain.SuperBetContainer:
+betdomain.SuperBetB
+dataAccess.DataAccess

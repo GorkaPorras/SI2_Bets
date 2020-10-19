@@ -1,0 +1,64 @@
+
+*gui.ApustuAnitzaGUI#sumBetMinOfSuperBet()FT
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÏ Ï(""4*˚
+2T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÓ Ó(z
+x
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÓ Ó(
+rdomain.Result"__id*
+""õ
+ò
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÓ Ó(
+rdomain.Result"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+3
+1*Ë
+3T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÔ Ô(–
+Õ
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÔ
+ Ô(
+%1businessLogic.BLFacade">gui.ApustuAnitzaGUI#getBusinessLogic()LbusinessLogic/BLFacade;*"
+gui.ApustuAnitzaGUI¶£
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÔ
+ Ô(2
+%2domain.ResultContainer"RbusinessLogic.BLFacade#getResultContainer(Ldomain/Result;)Ldomain/ResultContainer;*
+
+%1businessLogic.BLFacade*
+
+rdomain.Result2#getResultContainer(Ldomain/Result;)÷”
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÔ
+ Ô(@
+%3domain.Question"5domain.ResultContainer#getQuestion()Ldomain/Question;*
+
+%2domain.ResultContainer2getQuestion()≤Ø
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÔ
+ Ô(P
+%4float" domain.Question#getBetMinimum()F*
+
+%3domain.Question2getBetMinimum()*
+2*˛
+4T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÓ Ó(ù
+ö
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaÓ Ó(
+%0java.util.Vector"__id*$*"
+gui.ApustuAnitzaGUI"	
+Results*
+2*π
+1T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java	 ("^
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java (
+""B
+gui.ApustuAnitzaGUI

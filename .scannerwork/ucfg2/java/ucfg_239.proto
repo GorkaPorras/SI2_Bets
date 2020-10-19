@@ -1,0 +1,66 @@
+
+2dataAccess.DataAccess#deleteEvent(Ldomain/Event;)ZV
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java‰ ‰("14*≠
+13V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaË  Ë("»≈
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaË  Ë(1
+%1java.util.Vector"-domain.Event#getQuestions()Ljava/util/Vector;*
+
+evdomain.Event2getQuestions()*
+12*∞
+14V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÂ Â(Õ 
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÊ! Ê(3
+%0java.lang.Integer"0domain.Event#getEventNumber()Ljava/lang/Integer;*
+
+edomain.Event2getEventNumber()|
+z
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÊ Ê(5
+evdomain.Event"__id*
+""*
+13*è
+9V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÈ È(
+}
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÈ È(
+qudomain.Question"__id*
+""ß
+§
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÈ È(
+qudomain.Question"
+__arrayGet*
+
+	questionsjava.util.Vector*
+""*
+10
+1*ﬂ
+10V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÍ Í(˚¯
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÍ Í(
+%2boolean"8dataAccess.DataAccess#deleteQuestion(Ldomain/Question;)Z*
+dataAccess.DataAccess*
+
+qudomain.Question2!deleteQuestion(Ldomain/Question;)*
+9*˛
+12V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaË Ë(2ö
+ó
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaË Ë(2
+	questionsjava.util.Vector"__id*
+
+%1java.util.Vector*
+9*Ω
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÛ	 Û("`
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaÛ Û(
+"":
+edomain.EventB
+dataAccess.DataAccess

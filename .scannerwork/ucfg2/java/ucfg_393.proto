@@ -1,0 +1,61 @@
+
+UbusinessLogic.BLFacadeImplementation#getLangilea(Ljava/lang/String;)Ldomain/Langilea;e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaË Ë("startingBlock*¬
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaË Ë()ß
+§
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÁ Á(
+%4"
+__annotate*
+	WebMethod*
+
+erabjava.lang.Stringö
+ó
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaË$ Ë((
+erabjava.lang.String"__annotation*
+
+%4*
+1*ê
+
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÍ Í(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÍ Í(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager∆√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÍ Í(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÎ Î(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager•¢
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÎ Î(*
+%3domain.Langilea"FdataAccess.DataAccess#getLangilea(Ljava/lang/String;)Ldomain/Langilea;*
+
+%2dataAccess.DataAccess*
+
+erabjava.lang.String2getLangilea(Ljava/lang/String;)ü
+ú
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÎ Î(+
+ldomain.Langilea"__id*
+
+%3domain.Langilea"
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÏ Ï(
+
+ldomain.Langilea:
+erabjava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

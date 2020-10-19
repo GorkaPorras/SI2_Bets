@@ -1,0 +1,72 @@
+
+YbusinessLogic.BLFacadeImplementation#getMugimenduak(Ljava/lang/String;)Ljava/util/Vector;e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÎ Î()"startingBlock*Ä
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÎ) Î(7¨
+¥
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÍ Í(
+%6"
+__annotate*
+	WebMethod*
+
+izenajava.lang.String›
+˜
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÎ1 Î(6
+izenajava.lang.String"__annotation*
+
+%6*
+1*»
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÐ Ð(Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÐ Ð(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÆÃ
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÐ Ð(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÑ# Ñ(,
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager®«
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÑ# Ñ(B
+%3java.util.Vector"JdataAccess.DataAccess#getMugimenduak(Ljava/lang/String;)Ljava/util/Vector;*
+
+%2dataAccess.DataAccess*
+
+izenajava.lang.String2"getMugimenduak(Ljava/lang/String;)«
+¨
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÑ Ñ(C
+mugimenduakjava.util.Vector"__id*
+
+%3java.util.VectorÆ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÒ Ò(
+%4dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager¾»
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÒ Ò(
+
+%5void"dataAccess.DataAccess#close()V*
+
+%4dataAccess.DataAccess2close()"Š
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaÓ Ó(!
+
+mugimenduakjava.util.Vector:
+izenajava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

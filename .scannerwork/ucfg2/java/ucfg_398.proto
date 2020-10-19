@@ -1,0 +1,59 @@
+
+AbusinessLogic.BLFacadeImplementation#deleteEvent(Ldomain/Event;)Ze
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java´ ´("startingBlock*¥
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java´ ´($†
+ù
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java™ ™(
+%5"
+__annotate*
+	WebMethod*
+
+edomain.Eventì
+ê
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java´" ´(#
+edomain.Event"__annotation*
+
+%5*
+5*π
+4e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java∞ ∞(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java∞ ∞(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager˛˚
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.java∞ ∞(
+%3boolean"2dataAccess.DataAccess#deleteEvent(Ldomain/Event;)Z*
+
+%2dataAccess.DataAccess*
+
+edomain.Event2deleteEvent(Ldomain/Event;)*
+1*Å
+5e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaØ Ø(∆
+√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaØ Ø(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager∆√
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaØ Ø(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)*
+4*€
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaµ	 µ("o
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaµ µ(
+"":
+edomain.EventB(&
+$businessLogic.BLFacadeImplementation

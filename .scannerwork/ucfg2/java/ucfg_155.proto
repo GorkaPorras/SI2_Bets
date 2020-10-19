@@ -1,0 +1,47 @@
+
+Htest.businessLogic.TestFacadeImplementation#removeEvent(Ldomain/Event;)Zj
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java ("1*Ò
+1j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java (ß
+Ü
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java ($
+%0test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTestÓÐ
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java (
+
+%1void"&test.dataAccess.TestDataAccess#open()V*&
+$
+%0test.dataAccess.TestDataAccess2open()ß
+Ü
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java ($
+%2test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest–“
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java (*
+%3boolean";test.dataAccess.TestDataAccess#removeEvent(Ldomain/Event;)Z*&
+$
+%2test.dataAccess.TestDataAccess*
+
+evdomain.Event2removeEvent(Ldomain/Event;)ß
+Ü
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java ($
+%4test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTestÕÒ
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java (
+
+%5void"'test.dataAccess.TestDataAccess#close()V*&
+$
+%4test.dataAccess.TestDataAccess2close()"t
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java (
+"":
+evdomain.EventB/-
++test.businessLogic.TestFacadeImplementation

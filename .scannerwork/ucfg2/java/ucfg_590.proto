@@ -1,0 +1,59 @@
+
+*domain.Result#toString()Ljava/lang/String;N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaå å("1*∞
+
+1N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç	 ç(î
+ë
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç	 ç(
+%0java.lang.Integer"__id* *
+domain.Result"
+	feeNumberó
+î
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç	 ç(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;ê
+ç
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç ç(
+%2java.lang.String"__id**
+domain.Result"
+result©
+¶
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç	 ç(
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.Stringñ
+ì
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç	 ç(!
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;π
+∂
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç" ç(6
+%5java.lang.String".java.lang.Double#toString(D)Ljava/lang/String;*"
+java.lang.Double*
+""©
+¶
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç	 ç(6
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"j
+N
+BC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Result.javaç ç(7
+
+%6java.lang.StringB
+domain.Result

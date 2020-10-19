@@ -1,0 +1,61 @@
+
+_businessLogic.BLFacadeImplementation#getErabiltzailea(Ljava/lang/String;)Ldomain/Erabiltzailea;e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaà à(&"startingBlock*Â
+startingBlocke
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaà& à(3§
+¤
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaß ß(
+%4"
+__annotate*
+	WebMethod*
+
+erabjava.lang.Stringš
+—
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaà. à(2
+erabjava.lang.String"__annotation*
+
+%4*
+1*´
+
+1e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaâ â(Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaâ â(
+%0dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÆÃ
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaâ â(
+
+%1void"dataAccess.DataAccess#open(Z)V*
+
+%0dataAccess.DataAccess*
+""2open(Z)Æ
+Ã
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaã ã(
+%2dataAccess.DataAccess"__id*7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager¹¶
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaã ã(4
+%3domain.Erabiltzailea"PdataAccess.DataAccess#getErabiltzailea(Ljava/lang/String;)Ldomain/Erabiltzailea;*
+
+%2dataAccess.DataAccess*
+
+erabjava.lang.String2$getErabiltzailea(Ljava/lang/String;)©
+¦
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaã ã(5
+edomain.Erabiltzailea"__id*
+
+%3domain.Erabiltzailea"„
+e
+YC:/Users/MikelGorka/git/Bets_Repository/SI2/src/businessLogic/BLFacadeImplementation.javaä ä(
+
+edomain.Erabiltzailea:
+erabjava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

@@ -1,0 +1,54 @@
+
+gui.ApustuAnitzaGUI#irabazia()FT
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaŸ Ÿ("4*˝
+2T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java€ €({
+y
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java€ €(
+redomain.Result"__id*
+""ú
+ô
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java€ €(
+redomain.Result"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+3
+1*Å
+3T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java‹ ‹(†ù
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java‹ ‹(
+%1float"domain.Result#getFee()F*
+
+redomain.Result2getFee()*
+2*˛
+4T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java€ €(ù
+ö
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.java€ €(
+%0java.util.Vector"__id*$*"
+gui.ApustuAnitzaGUI"	
+Results*
+2*¸
+1T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaﬁ ﬁ(ù
+ö
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaﬁ ﬁ("
+%2java.util.Vector"__id*$*"
+gui.ApustuAnitzaGUI"	
+Results†ù
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaﬁ ﬁ()	
+%3int"java.util.Vector#size()I*
+
+%2java.util.Vector2size()"^
+T
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ApustuAnitzaGUI.javaﬁ ﬁ(+
+""B
+gui.ApustuAnitzaGUI

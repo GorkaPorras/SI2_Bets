@@ -1,0 +1,47 @@
+
+Ftest.businessLogic.TestFacadeImplementation#removeUser(Ldomain/User;)Zj
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java- -("1*Ã
+1j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java. .(ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java. .($
+%0test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest”–
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java. .(
+
+%1void"&test.dataAccess.TestDataAccess#open()V*&
+$
+%0test.dataAccess.TestDataAccess2open()ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java/ /($
+%2test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTestêç
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java/ /()
+%3boolean"9test.dataAccess.TestDataAccess#removeUser(Ldomain/User;)Z*&
+$
+%2test.dataAccess.TestDataAccess*
+
+udomain.User2removeUser(Ldomain/User;)ﬂ
+‹
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java0 0($
+%4test.dataAccess.TestDataAccess"__id*B*@-
++test.businessLogic.TestFacadeImplementation"
+dbManagerTest’“
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java0 0(
+
+%5void"'test.dataAccess.TestDataAccess#close()V*&
+$
+%4test.dataAccess.TestDataAccess2close()"t
+j
+`C:/Users/MikelGorka/git/Bets_Repository/SI2/src/test/businessLogic/TestFacadeImplementation.java1 1(
+"":
+udomain.UserB/-
++test.businessLogic.TestFacadeImplementation

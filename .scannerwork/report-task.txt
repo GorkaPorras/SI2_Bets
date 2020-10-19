@@ -1,0 +1,7 @@
+organization=gorkap
+projectKey=SI2_Bets11
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.13455
+dashboardUrl=https://sonarcloud.io/dashboard?id=SI2_Bets11
+ceTaskId=AXVBbaXaKGBZPjxNt4LM
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXVBbaXaKGBZPjxNt4LM

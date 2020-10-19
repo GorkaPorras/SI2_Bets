@@ -1,0 +1,140 @@
+
+9gui.ErabiltzaileaGUI#getLblNewLabel()Ljavax/swing/JLabel;U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java© ©("3*Û
+2U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java´# ´(1˘
+ˆ
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java´# ´(H
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasèå
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java´# ´(b
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+SelectOption2getString(Ljava/lang/String;)àÖ
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java´ ´("
+%3javax.swing.JLabel"javax.swing.JLabel∆
+√
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java´ ´(c
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.String¨
+©
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java´ ´(c.
+gui.ErabiltzaileaGUI"
+jLabelSelectOption"__id*
+
+%3javax.swing.JLabel¨
+©
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java¨ ¨(
+%5javax.swing.JLabel"__id*0*.
+gui.ErabiltzaileaGUI"
+jLabelSelectOption—Œ
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java¨ ¨(0
+
+%6void"#java.awt.Component#setBounds(IIII)V*
+
+%5javax.swing.JLabel*2*2V*2Ç*2<2setBounds(IIII)¨
+©
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java≠ ≠(
+%7javax.swing.JLabel"__id*0*.
+gui.ErabiltzaileaGUI"
+jLabelSelectOptionr
+p
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java≠1 ≠(:	
+%8int"__id*
+""}{
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java≠" ≠(&
+%9java.awt.Font"java.awt.Fontƒ
+¡
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java≠ ≠(?
+%10"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%9java.awt.Font*
+
+Tahoma*
+	
+%8int*2Ê„
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java≠ ≠(@
+%11void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%7javax.swing.JLabel*
+
+%9java.awt.Font2setFont(Ljava/awt/Font;)≠
+™
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.javaÆ Æ(
+%12javax.swing.JLabel"__id*0*.
+gui.ErabiltzaileaGUI"
+jLabelSelectOption~
+|
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.javaÆ$ Æ(/
+%13java.awt.Color"__id*
+""˜Ù
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.javaÆ Æ(0
+%14void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%12javax.swing.JLabel*
+
+%13java.awt.Color2setForeground(Ljava/awt/Color;)≠
+™
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.javaØ Ø(
+%15javax.swing.JLabel"__id*0*.
+gui.ErabiltzaileaGUI"
+jLabelSelectOptions
+q
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.javaØ- Ø(B
+
+%16int"__id*
+""‹Ÿ
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.javaØ Ø(C
+%17void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%15javax.swing.JLabel*
+
+
+%16int2setHorizontalAlignment(I)*
+1*ë
+3U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java™ ™(¨
+©
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java™ ™(
+%0javax.swing.JLabel"__id*0*.
+gui.ErabiltzaileaGUI"
+jLabelSelectOption*
+2
+1*Ä
+1U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java±	 ±(≠
+™
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java±	 ±(
+%18javax.swing.JLabel"__id*0*.
+gui.ErabiltzaileaGUI"
+jLabelSelectOption"t
+U
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/gui/ErabiltzaileaGUI.java± ±(
+
+%18javax.swing.JLabelB
+gui.ErabiltzaileaGUI

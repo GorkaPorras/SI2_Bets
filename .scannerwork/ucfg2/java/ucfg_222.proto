@@ -1,0 +1,38 @@
+
+QdataAccess.DataAccess#getResultContainer(Ldomain/Result;)Ldomain/ResultContainer;V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java« «(*"1*©
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¬ ¬(ÐÍ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¬$ ¬(9
+%0java.lang.Integer"/domain.Result#getFeeNumber()Ljava/lang/Integer;*
+
+resultdomain.Result2getFeeNumber()}
+{
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¬ ¬(;
+redomain.Result"__id*
+""‘Ž
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java­ ­(*
+%1domain.ResultContainer"domain.ResultContainerÉ
+Æ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java­ ­(.
+%2"/domain.ResultContainer#<init>(Ldomain/Result;)V*
+
+%1domain.ResultContainer*
+
+redomain.ResultŸ
+œ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java­ ­(/
+RCdomain.ResultContainer"__id*
+
+%1domain.ResultContainer"x
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java® ®(
+
+RCdomain.ResultContainer:
+resultdomain.ResultB
+dataAccess.DataAccess

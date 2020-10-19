@@ -1,0 +1,85 @@
+
+7domain.Erabiltzailea#removeSuperBet(Ldomain/SuperBet;)ZS
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaV V("3*π
+2S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaX X(ß§
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaX X(
+%2float"domain.SuperBet#getPrice()F*
+
+sbdomain.SuperBet2
+getPrice()ß§
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaY Y()
+%3float"domain.SuperBet#getPrice()F*
+
+sbdomain.SuperBet2
+getPrice()ß§
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaY* Y(7
+%4float"domain.SuperBet#getPrice()F*
+
+sbdomain.SuperBet2
+getPrice()}{
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaYT Y(X
+%5java.util.Date"java.util.Dateê
+ç
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaYP Y(Z
+%6"java.util.Date#<init>()V*
+
+%5java.util.DateÂ‚
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaY Y([
+%7domain.Mugimendua"\domain.Erabiltzailea#addMugimendua(FFFLjava/lang/String;Ljava/util/Date;)Ldomain/Mugimendua;*
+domain.Erabiltzailea*
+""*
+
+%4float*
+""*
+	ITZULKETA*
+
+%5java.util.Date24addMugimendua(FFFLjava/lang/String;Ljava/util/Date;)†
+ù
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaZ Z(
+%8java.util.Vector"__id*(*&
+domain.Erabiltzailea"
+
+supereBets‰·
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaZ Z(
+%9boolean",java.util.Vector#remove(Ljava/lang/Object;)Z*
+
+%8java.util.Vector*
+
+sbdomain.SuperBet2remove(Ljava/lang/Object;)"]
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.java[ [(
+""*Ó
+3S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaW W(†
+ù
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaW W(
+%0java.util.Vector"__id*(*&
+domain.Erabiltzailea"
+
+supereBetsËÂ
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.javaW W(
+%1boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Vector*
+
+sbdomain.SuperBet2contains(Ljava/lang/Object;)*
+2
+1*∑
+1S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.java]	 ]("]
+S
+IC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Erabiltzailea.java] ](
+"":
+sbdomain.SuperBetB
+domain.Erabiltzailea

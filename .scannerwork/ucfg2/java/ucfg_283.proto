@@ -1,0 +1,47 @@
+
+.domain.Question#removeResult(Ldomain/Result;)ZP
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java¢ ¢("3*«
+2P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java¤ ¤(
+•
+’
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java¤ ¤(
+
+%2java.util.Vector"__id* *
+domain.Question"	
+resultsßÜ
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java¤ ¤(
+%3boolean",java.util.Vector#remove(Ljava/lang/Object;)Z*
+
+%2java.util.Vector*
+
+redomain.Result2remove(Ljava/lang/Object;)"Z
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java¥ ¥(
+""*Û
+3P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java£ £(•
+’
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java£ £(
+%0java.util.Vector"__id* *
+domain.Question"	
+resultsãà
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java£ £(
+%1boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Vector*
+
+redomain.Result2contains(Ljava/lang/Object;)*
+2
+1*±
+1P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java§	 §("Z
+P
+DC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/Question.java§ §(
+"":
+redomain.ResultB
+domain.Question

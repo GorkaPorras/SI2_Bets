@@ -1,0 +1,40 @@
+
+]dataAccess.DataAccess#getMugimenduaContainer(Ldomain/Mugimendua;)Ldomain/MugimenduaContainer;V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaΩ Ω(2"1*‡
+1V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaæ æ(ﬁ€
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaæ, æ(F
+%0java.lang.Integer"4domain.Mugimendua#getMugiNumber()Ljava/lang/Integer;*!
+
+
+mugimenduadomain.Mugimendua2getMugiNumber()Å
+
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaæ æ(H
+mudomain.Mugimendua"__id*
+""ôñ
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaø ø(2 
+%1domain.MugimenduaContainer"domain.MugimenduaContainerŸ
+÷
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaø ø(6
+%2"7domain.MugimenduaContainer#<init>(Ldomain/Mugimendua;)V*"
+ 
+%1domain.MugimenduaContainer*
+
+mudomain.Mugimenduaß
+§
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.javaø ø(7 
+MCdomain.MugimenduaContainer"__id*"
+ 
+%1domain.MugimenduaContainer"|
+V
+JC:/Users/MikelGorka/git/Bets_Repository/SI2/src/dataAccess/DataAccess.java¿ ¿("
+ 
+MCdomain.MugimenduaContainer:
+
+mugimenduadomain.MugimenduaB
+dataAccess.DataAccess

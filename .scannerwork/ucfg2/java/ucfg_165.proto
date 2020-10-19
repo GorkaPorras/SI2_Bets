@@ -1,0 +1,61 @@
+
+0domain.BetContainer#toString()Ljava/lang/String;R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java ("1*²
+
+1R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java	 (‘
+Ž
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java	 (
+%0
+domain.Bet"__id* *
+domain.BetContainer"
+bet”
+‘
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java	 (
+%1java.lang.String"__concat*
+
+%0
+domain.Bet*
+/—
+”
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java (
+%2domain.Result"__id*#*!
+domain.BetContainer"
+resultª
+§
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java	 (
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2domain.Resultš
+—
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java	 (
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+/¥
+¢
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java ()
+%5domain.Erabiltzailea"__id***(
+domain.BetContainer"
+erabiltzailea±
+®
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java	 ()
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5domain.Erabiltzailea"n
+R
+HC:/Users/MikelGorka/git/Bets_Repository/SI2/src/domain/BetContainer.java (*
+
+%6java.lang.StringB
+domain.BetContainer
