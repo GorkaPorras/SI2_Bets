@@ -2,8 +2,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>SI2_Bets22</groupId>
-	<artifactId>SI2_Bets11</artifactId>
+	<groupId>SI2_Bets</groupId>
+	<artifactId>SI2_Bets</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 		<build>
 		<sourceDirectory>src</sourceDirectory>
@@ -59,7 +59,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<sonar.organization>gorkap</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>ec7eee94eb737c108cdc735caf4fc49367e19f57</sonar.login>
+		<sonar.login>bb23e301ae6206b04ec966de77cd53b6ddfe2ff4</sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>

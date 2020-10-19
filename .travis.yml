@@ -1,7 +1,7 @@
 addons:
   sonarcloud:
     organization: "gorkap"
-    token: "ec7eee94eb737c108cdc735caf4fc49367e19f57" #  your security token created in sonarcloud
+    token: "bb23e301ae6206b04ec966de77cd53b6ddfe2ff4" #  your security token created in sonarcloud
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
