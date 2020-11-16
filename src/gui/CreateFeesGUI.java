@@ -7,6 +7,7 @@ import javax.swing.*;
 
 import com.toedter.calendar.JCalendar;
 
+import Iterator.ExtendedIterator;
 import businessLogic.BLFacade;
 
 import java.awt.*;
@@ -171,15 +172,17 @@ public class CreateFeesGUI extends JFrame  {
 
 					try {
 
-						Vector<Event> events = getBusinessLogic().getEvents(firstDay);
+						ExtendedIterator<Event> events = getBusinessLogic().getEvents(firstDay);
 
 						if (events.isEmpty() ) jLabelListOfEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents")+ ": "+dateformat1.format(calendarMio.getTime()));
 						else jLabelListOfEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("Events")+ ": "+dateformat1.format(calendarMio.getTime()));
 						jComboBoxEvents.removeAllItems();
 						System.out.println("Events "+events);
 
-						for (Event ev:events)
+						while (events.hasNext()) {
+							Event ev = (Event) events.next();
 							modelEvents.addElement(ev);
+						}
 						jComboBoxEvents.repaint();
 
 						if (events.size()==0)
@@ -252,7 +255,7 @@ public class CreateFeesGUI extends JFrame  {
 		int month=calendar.get(Calendar.MONTH);
 
 		while (month==calendar.get(Calendar.MONTH)){
-			Vector<Event> events = getBusinessLogic().getEvents(calendar.getTime());
+			ExtendedIterator<Event> events = getBusinessLogic().getEvents(calendar.getTime());
 			if (events.size()>0) {
 				// Obtain the component of the day in the panel of the DayChooser of the JCalendar.
 				// The component is located after the decorator buttons of "Sun", "Mon",... or "Lun", "Mar"...,

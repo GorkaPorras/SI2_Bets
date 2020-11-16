@@ -42,7 +42,8 @@ import exceptions.betMinimum;
  * It implements the data access to the objectDb database
  */
 public class DataAccess  {
-	protected static EntityManager  db;
+	private DataAccessProduct dataAccessProduct = new DataAccessProduct();
+	public static EntityManager  db;
 	protected static EntityManagerFactory emf;	
 
 	ConfigXML c;
@@ -634,8 +635,7 @@ public void open(boolean initializeMode){
 	}
 
 	public Vector<Mugimendua> getMugimenduak(String izena) {
-		Erabiltzailea er = getErabiltzailea(izena);
-		return er.getMugi();
+		return dataAccessProduct.getMugimenduak(izena);
 	}
 
 	public User getUser(String erab) {
@@ -644,8 +644,7 @@ public void open(boolean initializeMode){
 	}
 
 	public Erabiltzailea getErabiltzailea(String erab) {
-		Erabiltzailea er = db.find(Erabiltzailea.class, erab); 
-		return er;
+		return dataAccessProduct.getErabiltzailea(erab);
 	}
 
 	public Langilea getLangilea(String erab) {
@@ -843,16 +842,7 @@ public void open(boolean initializeMode){
 	}
 
 	public void apustuaEgin(Erabiltzailea erabiltzailea, float price, Result res) {
-		float hasierakoDirua = erabiltzailea.getDiruzorroa();
-
-		db.getTransaction().begin();
-		Bet bet = erabiltzailea.addEBets(price, res);
-		res.addBet(bet);
-		erabiltzailea.setDiruzorroa(hasierakoDirua - price);
-		erabiltzailea.addMugimendua(hasierakoDirua, (price)*(-1), hasierakoDirua - price, "APUSTUA", new Date());
-
-		db.persist(erabiltzailea);
-		db.getTransaction().commit();
+		erabiltzailea.apustuaEgin(price, res);
 	}
 
 	public float getDirua(Erabiltzailea erab) {

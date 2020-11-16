@@ -1,5 +1,6 @@
 package domain;
 
+import dataAccess.DataAccess;
 import java.io.Serializable;
 import java.util.Date;
 import java.util.Vector;
@@ -203,6 +204,17 @@ public class Erabiltzailea extends User implements Serializable{
 		SBet.setResults(results);
 		supereBets.add(SBet);
 		return SBet;
+	}
+
+	public void apustuaEgin(float price, Result res) {
+		float hasierakoDirua = getDiruzorroa();
+		DataAccess.db.getTransaction().begin();
+		Bet bet = addEBets(price, res);
+		res.addBet(bet);
+		setDiruzorroa(hasierakoDirua - price);
+		addMugimendua(hasierakoDirua, (price) * (-1), hasierakoDirua - price, "APUSTUA", new Date());
+		DataAccess.db.persist(this);
+		DataAccess.db.getTransaction().commit();
 	}
 
 }

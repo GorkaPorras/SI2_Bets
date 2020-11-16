@@ -10,14 +10,20 @@ import javax.swing.*;
 import businessLogic.BLFacade;
 import domain.Admin;
 import domain.Erabiltzailea;
+import domain.Event;
 import domain.Langilea;
+import domain.Question;
+import domain.Result;
 import domain.User;
+import jFrameAdapter.TablaIkusiModelAdapter;
 
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Image;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
@@ -55,6 +61,7 @@ public class UnRegisteredGUI extends JFrame {
 	private JLabel lblezDaukazuKontu=null;
 	private JButton btnSortuKontuBerria=null;
 	private JButton btnSartu=null;
+	private JButton btnNewButton;
 
 
 	/**
@@ -105,6 +112,7 @@ public class UnRegisteredGUI extends JFrame {
 			jContentPane.setBackground(Color.DARK_GRAY);
 			jContentPane.setLayout(null);
 			jContentPane.add(getBoton3());
+			jContentPane.add(getBtnNewButton());
 			jContentPane.add(getPanel());
 			jContentPane.add(getLblNewLabel());
 			jContentPane.add(getPasswordField());
@@ -313,6 +321,52 @@ public class UnRegisteredGUI extends JFrame {
 			passwordField.setBounds(125, 13, 100, 25);
 		}
 		return passwordField;
+	}
+	private Date newDate(int year,int month,int day) {
+
+		Calendar calendar = Calendar.getInstance();
+		calendar.set(year, month, day,0,0,0);
+		calendar.set(Calendar.MILLISECOND, 0);
+
+		return calendar.getTime();
+	}
+	private JButton getBtnNewButton() {
+		if (btnNewButton == null) {
+			btnNewButton = new JButton(ResourceBundle.getBundle("Etiquetas").getString("UnRegisteredGUI.btnNewButton.text")); //$NON-NLS-1$ //$NON-NLS-2$
+			btnNewButton.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent arg0) {
+					Erabiltzailea oier = new Erabiltzailea("","","","oier","oier","","","","","","","","","");
+					Event ev1=new Event(777, "Atletico-Athletic", newDate(2020,11,17));
+					Event ev2=new Event(1001, "ni-zu", newDate(2020,11,18));
+					
+					Question q1=ev1.addQuestion("¿Quien ganará el partido?",1);
+					Question q2=ev2.addQuestion("Nork Irabaziko du?",1);
+					
+					Result r1 = q1.addResult("Athletic", 3);
+					Result r2 = q2.addResult("nik", 5);
+					
+					oier.addEBets(15, r1);
+					oier.addEBets(2, r2);
+
+					TablaIkusiModelAdapter model=new TablaIkusiModelAdapter(oier);        
+					
+					JFrame j=new JFrame();
+					JTable table = new JTable(model);
+					 j.add(new JScrollPane(table));
+			         
+				     j.setTitle(oier.getErabizena()+"'s tabla");
+				     j.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);       
+				     j.pack();
+				     j.setVisible(true);
+
+					
+					
+					
+				}
+			});
+			btnNewButton.setBounds(36, 109, 126, 36);
+		}
+		return btnNewButton;
 	}
 } // @jve:decl-index=0:visual-constraint="0,0"
 

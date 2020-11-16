@@ -2,6 +2,7 @@ package gui;
 
 import com.toedter.calendar.JCalendar;
 
+import Iterator.ExtendedIterator;
 import businessLogic.BLFacade;
 import domain.Event;
 import domain.Question;
@@ -207,11 +208,12 @@ public class ApustuAnitzaGUI extends JFrame {
 						tableModelEvents.setColumnCount(3); // another column added to allocate ev objects
 
 						//	getEvents
-						Vector<Event> events = getBusinessLogic().getEvents(firstDay);
+						ExtendedIterator<Event> events = getBusinessLogic().getEvents(firstDay);
 
 						if (events.isEmpty() ) jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents")+ ": "+dateformat1.format(calendarMio.getTime()));
 						else jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("Events")+ ": "+dateformat1.format(calendarMio.getTime()));
-						for (Event ev:events){
+						while (events.hasNext()) {
+							Event ev = (Event) events.next();
 							Vector<Object> row = new Vector<Object>();
 
 							System.out.println("Events "+ev);

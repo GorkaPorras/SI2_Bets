@@ -7,6 +7,8 @@ import java.util.Vector;
 import javax.jws.WebMethod;
 import javax.jws.WebService;
 
+import Iterator.ExtendedIterator;
+import Iterator.ExtendedIteratorImplementation;
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
 import domain.Question;
@@ -176,12 +178,13 @@ public class BLFacadeImplementation implements BLFacade {
 	 * @return collection of events
 	 */
 	@WebMethod
-	public Vector<Event> getEvents(Date date) {
+	public ExtendedIterator<Event> getEvents(Date date) {
 		// DataAccess dbManager = new DataAccess();
 		dbManager.open(false);
 		Vector<Event> events = dbManager.getEvents(date);
+		ExtendedIterator<Event> i=new ExtendedIteratorImplementation(events);
 		dbManager.close();
-		return events;
+		return i;
 	}
 
 	@WebMethod
@@ -360,11 +363,11 @@ public class BLFacadeImplementation implements BLFacade {
 
 		// bi kontainer erabili beharko dira atzera egiteko
 		for (Result re : results) {
+			batura = batura(batura, re);
 			Question q = dbManager.getResultContainer(re).getQuestion();
 			Event e = dbManager.getQuestionContainer(q).getEvent();
 			if (new Date().compareTo(e.getEventDate()) > 0)
 				throw new EventFinished(ResourceBundle.getBundle("Etiquetas").getString("ErrorEventHasFinished"));
-			batura += q.getBetMinimum();
 		}
 
 		if (results.size() <= 1)
@@ -376,6 +379,12 @@ public class BLFacadeImplementation implements BLFacade {
 
 		dbManager.superApustuaEgin(erabiltzailea, price, results);
 		dbManager.close();
+	}
+
+	private float batura(float batura, Result re) {
+		Question q = dbManager.getResultContainer(re).getQuestion();
+		batura += q.getBetMinimum();
+		return batura;
 	}
 
 	@WebMethod

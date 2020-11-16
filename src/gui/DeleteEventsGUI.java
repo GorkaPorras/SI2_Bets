@@ -26,6 +26,7 @@ import javax.swing.table.DefaultTableModel;
 
 import com.toedter.calendar.JCalendar;
 
+import Iterator.ExtendedIterator;
 import businessLogic.BLFacade;
 import domain.Event;
 import java.awt.Font;
@@ -45,7 +46,7 @@ public class DeleteEventsGUI extends JFrame {
 
 	private static final long serialVersionUID = 1L;
 
-	private static Vector<Event> events;
+	private static ExtendedIterator<Event> events;
 
 
 	private final JLabel jLabelEventDate = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("EventDate"));
@@ -142,7 +143,8 @@ public class DeleteEventsGUI extends JFrame {
 
 						if (events.isEmpty() ) jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents")+ ": "+dateformat1.format(calendarMio.getTime()));
 						else jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("Events")+ ": "+dateformat1.format(calendarMio.getTime()));
-						for (Event ev:events){
+						while (events.hasNext()) {
+							Event ev = (Event) events.next();
 							Vector<Object> row = new Vector<Object>();
 
 							System.out.println("Events "+ev);
@@ -256,7 +258,8 @@ public class DeleteEventsGUI extends JFrame {
 		else 
 			jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("Events")+ ": "+dateformat1.format(calendarMio.getTime()));
 
-		for (Event ev:events){
+		while (events.hasNext()) {
+			Event ev = (Event) events.next();
 			Vector<Object> row = new Vector<Object>();
 
 			System.out.println("Events "+ev);
